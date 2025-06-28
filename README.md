@@ -34,8 +34,8 @@ This Streamlit app enables users to scrape web content from a given URL using Br
 
 ```bash
 # Clone the repo
-git clone https://PromptEngineer48/mcp_basic_example/llm-web-search.git
-cd llm-web-search
+git clone https://PromptEngineer48/mcp_basic_example.git
+cd mcp_basic_example
 
 # Create virtual environment
 python -m venv venv
